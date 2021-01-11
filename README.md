@@ -1,5 +1,5 @@
 # HistogramIntervals
-a program that defines a class Histogram that keeps a count of the numbers in the intervals specified as constructor arguments (the intervals are of the form [3, 5.5), [7, 9.3)), in other words, closed on the left and open on the right and the intervals might have gaps between them, but must not overlap, and are potentially given in an unsorted order) to the Histogram class constructor.
+A program that defines a class Histogram that keeps a count of the numbers in the intervals specified as constructor arguments (the intervals are of the form [3, 5.5), [7, 9.3)), in other words, closed on the left and open on the right and the intervals might have gaps between them, but must not overlap, and are potentially given in an unsorted order) to the Histogram class constructor.
 
 The class must handle out-of-range values as well as flag potential input errors in the interval definitions (e.g., invalid intervals, overlapping intervals).
 
